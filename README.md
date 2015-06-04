@@ -613,7 +613,7 @@ Applying LSA over news articles and using labeled 20-topics for ranking news cha
 </tr><tr> <td>事件說明2<td>UDN	<td>LTN	<td>CNA	<td>APPLEDAILY	<td>ETTODAY	<td>CTNEWS
 </tr><tr> <td>死刑/廢死<td>ETTODAY	<td>APPLEDAILY	<td>LTN	<td>CTNEWS	<td>UDN	<td>CNA
 </tr><tr> <td>送醫<td>ETTODAY	<td>CNA	<td>LTN	<td>APPLEDAILY	<td>UDN	<td>CTNEWS
-</tr><tr><td>廢死2<td>ETTODAY	<td>APPLEDAILY	<td>CTNEWS	<td>LTN	<td>CNA	<td>UDN
+</tr><tr><td>家屬道歉<td>ETTODAY	<td>APPLEDAILY	<td>CTNEWS	<td>LTN	<td>CNA	<td>UDN
 </tr><tr> <td>北市作為1<td>CNA	<td>UDN	<td>LTN	<td>APPLEDAILY	<td>ETTODAY	<td>CTNEWS
 </tr><tr> <td>死亡說明<td>ETTODAY	<td>CNA	<td>APPLEDAILY	<td>LTN	<td>UDN	<td>CTNEWS
 </tr><tr><td>北市作為2<td>UDN	<td>CNA	<td>LTN	<td>APPLEDAILY	<td>ETTODAY	<td>CTNEWS
